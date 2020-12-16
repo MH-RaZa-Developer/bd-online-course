@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.logo-area{
+    text-align: center;
+}
+.logo-area img{
+    height: 100px;
+}
+
+.nav-menu{
+    margin-top: 30px;
+}
+
+.nav-menu a{
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-right: 20px;
+    color: #000;
+    transition: .1s;
+}
+
+a:hover{
+    color: red;
+}
+
+.search-box{
+    margin-top:20px;
+}
+
+.search-box input{
+    float: left;
+    margin-right: 10px;
+}
